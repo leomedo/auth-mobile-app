@@ -47,7 +47,7 @@ class UserDetails extends StatelessWidget {
             ),
             const MyForm(
                 labelText: 'Gender',
-                style: const TextStyle(
+                style: TextStyle(
                   color: MyColors.myBlack,
                 ),
                 enabled: false,
